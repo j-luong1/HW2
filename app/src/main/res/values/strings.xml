@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="action_settings">Quit</string>
+    <string name="studentid">Student ID</string>
+    <string name="message">Message</string>
+    <string name="id">N0123467</string>
+    <string name="announce">Your Message is:</string>
+    <string name="blank"></string>
+    <string name="return1">RETURN</string>
+    <string name="receiver">Receiver</string>
+</resources>
