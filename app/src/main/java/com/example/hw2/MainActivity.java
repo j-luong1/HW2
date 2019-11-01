@@ -90,8 +90,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-            finish();
-            System.exit(0);
+            finishAndRemoveTask();
         }
 
         return super.onOptionsItemSelected(item);
